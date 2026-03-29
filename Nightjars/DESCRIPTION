@@ -1,0 +1,18 @@
+Package: Nightjars
+Title: Tracking and Visualizing Nightjar Populations by State
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jennifer", "Izquierdo", , "jenniferizquierdo@usf.edu", role = c("aut", "cre"))
+Description: Provides tools to track and analyze the distribution and abundance 
+    of nightjars across U.S. states, with a focus on the common 
+    nighthawk. The package supports summarizing population trends, 
+    visualizing geographic patterns, and aiding conservation research 
+    for ornithologists, ecologists, and wildlife managers.
+License: CC0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: ggplot2, dplyr
+LazyData: true
+URL: https://github.com/izquierdoj-LIS/Nightjars
+
