@@ -4,10 +4,9 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Jennifer", "Izquierdo", , "jenniferizquierdo@usf.edu", role = c("aut", "cre"))
 Description: Provides tools to track and analyze the distribution and abundance 
-    of nightjars across U.S. states, with a focus on the common 
-    nighthawk. The package supports summarizing population trends, 
+    of nightjars across U.S. states. The package supports summarizing population trends, 
     visualizing geographic patterns, and aiding conservation research 
-    for ornithologists, ecologists, and wildlife managers.
+    for ornithologists, ecologists, and wildlife managers. 
 License: CC0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
