@@ -9,3 +9,6 @@ Provides tools to track and analyze the distribution and abundance of nightjars 
 # References
 1. eBird Basic Dataset. Version: EBD_relFeb-2026. Cornell Lab of Ornithology, Ithaca, New York. Feb 2026.
 2. Sullivan, B.L., C.L. Wood, M.J. Iliff, R.E. Bonney, D. Fink, and S. Kelling. 2009. eBird: a citizen-based bird observation network in the biological sciences. Biological Conservation 142: 2282-2292.
+
+# Note 
+Unfortunately GITHUB doesn't allow me to upload the large file of observations in the world, but I was able to upload the raw data of the U.S. counts. 
