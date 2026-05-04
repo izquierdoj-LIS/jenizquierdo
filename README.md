@@ -1,4 +1,4 @@
-# Bird
+# Nightjars
 
 Provides tools to track and analyze the distribution and abundance of nightjars across U.S. states. The package supports summarizing population trends, visualizing geographic patterns, and aiding conservation research for ornithologists, ecologists, and wildlife managers. 
 
